@@ -19,5 +19,5 @@ class CrackPass
             counter2++;
         }
     }
-}
+console.out("Your password has been succesfully cracked")
 
